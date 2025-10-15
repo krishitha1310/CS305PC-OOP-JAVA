@@ -1,14 +1,11 @@
 /*Sample Input
-
 1
 2
 3
 4
 5
 6
-
 Sample Output
-
 1+2=3
 1+2+3=6
 1+2+3+4+5=15
