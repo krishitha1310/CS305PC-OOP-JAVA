@@ -1,3 +1,5 @@
+//nested class
+//calling the methid in nested class:--->outerclass.nestedclass.method()
 import java.math.*;
 class MathUtils{
 	public static class Geometry{
