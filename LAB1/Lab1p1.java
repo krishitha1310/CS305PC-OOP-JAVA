@@ -1,5 +1,5 @@
 class Lab1p1{
-	public static void main(String...args){
+	public static void main( String...args ){
 		System.out.println("-----Byte-------");
 		byte b=15;
 		Byte bb=b;
